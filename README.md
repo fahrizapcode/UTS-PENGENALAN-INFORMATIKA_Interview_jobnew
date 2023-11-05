@@ -96,14 +96,14 @@ Pengguna | disetiap akhir level pasti ada raja musuh didalam game nya | permaina
 Pengguna | raja musuh memiliki darah dan skill yang hebat yang berbeda dengan musuh kecil yang lebih lemah  | sehingga saat melawan raja lebih butuh effort saat mengalahkannya | ⭐⭐
 Pengguna | saat mengalahkan raja, karakter mendapatkan kekuatan dan bonus lainnya | sehingga effort yang dikeluarkan saat mengalahkan raja terbalaskan | ⭐⭐⭐
 Pengguna | menampilkan lubang hitam antar dimensi untuk melanjutkan ke level selanjutnya | sehingga saat melanjutkan ke level yang berbeda dan peta yang berbeda tidak membosankan | ⭐
-Pengguna | ada tembok tembok sebagai penghalang agar  | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | ada tembok tembok sebagai penghalang agar bisa berlindung saat diserang musuh | agar membantu karakter dalam permainan | ⭐⭐⭐
+Pengguna | ada adrenalin di setiap peta | ada tantangan saat bermain  | ⭐⭐
+Pengguna | ada aset tong di dalam game yang berisi koin,energi dan tambahan darah saat tong itu di hancurkan | dapat koin dan darah tambahan yang bermanfaat untuk pengguna dan karakter yang dimainkan | ⭐⭐⭐
+Pengguna | memakai senjata pistol yang menembak dari jarak jauh | musuh bisa dimatikan dengan jarak jauh | ⭐⭐⭐
+Pengguna | memakai senjata pedang untuk serangan jarak dekat | mematikan lawan dengan jarak dekat | ⭐⭐⭐
+Pengguna | ada senjata yang memerlukan energi dari karakter | pengguna tidak selalu unggul dan memiliki kelemahan | ⭐⭐
+Pengguna | ada musuh yang memakai senjata | menambah tantangan untuk pemain | ⭐⭐
+Pengguna | menampilkan statistik darah ,energi dan koin yang didapat | pengguna mengetahui darah ,energi dan koin yang didapatkan | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
