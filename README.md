@@ -74,4 +74,54 @@ Pengguna | musuh mengenai karakter utama | Pengguna dapat melakukan strategi aga
 Pengguna | mengambil senjata  | Pengguna dapat membunuh musuh dengan senjata | ⭐⭐
 Pengguna | karakter bisa membidik musuh dengan senjata | Pengguna dapat mematikan musuh dengan senjatanya | ⭐⭐
 Pengguna | menampilkan aset aset pendukung di peta | tampilan tidak membosankan| ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya yang berpengaruh dalam game | ⭐⭐⭐⭐
+Pengguna | bisa membeli karakter | bisa mendapatkan karakter baru| ⭐⭐⭐⭐
+Pengguna | upgrade kekuatan karakter | kekuatan karakter bertambah | ⭐⭐⭐⭐
+Pengguna | membeli aksesoris tambahan pada karakter | memperindah tampilan karakter | ⭐⭐
+Pengguna | membeli senjata untuk karakter dalam permainan | pengguna bisa memilih senjata yang ingin dipakai karakternya | ⭐⭐
+Pengguna | menampilkan toko yang ada didalam permainan game saat dimulai | pengguna bisa membeli atribut yang dibutuhkan oleh karakter | ⭐⭐⭐
+Pengguna | menampilkan atribut atribut yang ada di dalam toko | pengguna bisa melihat macam macam atribut didalam toko | ⭐⭐
+Pengguna | menampilkan spesifikasi dari atribut yang ada didalam toko | pengguna bisa melihat keunggulan dan kelemahan dari atribut yang dijual di toko | ⭐⭐
+Pengguna | memakai dan melepas atibut yang dipakai karakter | karakter yang dimainkan bisa mengatur atribut yang dipakai | ⭐⭐
+Pengguna | saat permainan game dimulai atribut yang dibeli bisa dipakai | atribut yang telah dibeli berguna dan tidak sia sia | ⭐⭐
+Pengguna | meng upgrade senjata di dalam permainan game | sehingga senjatanya menjadi lebih bagus | ⭐⭐
+Pengguna | di dalam game ada musuh yang berbeda beda di setiap peta | sehingga di setiap peta memiliki cirikhasnya | ⭐⭐
+Pengguna | dalam level permainan di ciri kan dengan peta yang berbeda | sehingga pengguna mengetahui level dalam permainan dengan melihat peta | ⭐⭐
+Pengguna | permainan semakin sulit saat level semakin tinggi | agar permainan tidak membosankan | ⭐⭐⭐⭐
+Pengguna | disetiap akhir level pasti ada raja musuh didalam game nya | permainan menjadi lebih menegangkan | ⭐⭐⭐
+Pengguna | raja musuh memiliki darah dan skill yang hebat yang berbeda dengan musuh kecil yang lebih lemah  | sehingga saat melawan raja lebih butuh effort saat mengalahkannya | ⭐⭐
+Pengguna | saat mengalahkan raja, karakter mendapatkan kekuatan dan bonus lainnya | sehingga effort yang dikeluarkan saat mengalahkan raja terbalaskan | ⭐⭐⭐
+Pengguna | menampilkan lubang hitam antar dimensi untuk melanjutkan ke level selanjutnya | sehingga saat melanjutkan ke level yang berbeda dan peta yang berbeda tidak membosankan | ⭐
+Pengguna | ada tembok tembok sebagai penghalang agar  | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+
+
+
+
+
+
+
+
+
+
+
