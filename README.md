@@ -25,7 +25,7 @@ ada beberapa jenis teknologi informasi yang dipakai dalam pengerjaan produk tekn
 pada tahap ini saya akan mengeksplorasi branding dari produk yang saya buat.
 
 -Merk : Run&run
-kata Run&run diambil dari bahasa inggris yang artinya "lari dan lari" atau bisa diartikan sebagai terus bergerak, sesuai dengan produk yang dibuat, yang tujuannya menghibur dan melatih otak agar seseorang bisa memanfaat waktunya dengan baik.
+-kata Run&run diambil dari bahasa inggris yang artinya "lari dan lari" atau bisa diartikan sebagai terus bergerak, sesuai dengan produk yang dibuat, yang tujuannya menghibur dan melatih otak agar seseorang bisa memanfaat waktunya dengan baik.
 
 -Tagline : make it play
 
@@ -37,24 +37,28 @@ kata Run&run diambil dari bahasa inggris yang artinya "lari dan lari" atau bisa 
  
  *pengguna mendapatkan hiburan saat memainkan game nya, 
  
- *pengguna dapat memainkan karakter dari game, 
+ *pengguna dapat mengkontrol karakter dari game. 
   
 -UX theme : 
   
   *sederhana(untuk sekarang)
 	
- *warna tidak mencolok
+ *warna bervariasi 
 	
- *mudah dilihat
+ *mudah pahami
 	
  *mudah untuk dimainkan
 
  *simple
 
- *warna bervariasi
+ *memakai konsep galaxy untuk tampilan awal,karena konsep dari game ini memakai tema antar planet
+
+ *warna hitam ,yang mengartikan keluasan dan kemewahan dengan kesan elegan. 
+
+ *didampingi objek objek dengan warna yang cerah
  
 ## Refernsi Design
-Saya mengambil referensi warna dan layout 
+Saya mengambil referensi warna dan layout dari aplikasi game soul knight ,seperti gambar dibawah ini:
 
 
 
