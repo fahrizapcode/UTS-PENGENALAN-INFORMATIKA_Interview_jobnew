@@ -108,11 +108,11 @@ Pengguna | ada harta karun didalam game setelah pindah ke peta selanjutnya yang 
 Pengguna | terdapat hewan pendamping didalam karakter yang bisa membantu melawan musuh | sehingga game tidak terlalu susah | ⭐⭐
 Pengguna | hewan peliharaan bisa di upgrade kekuatannya | sehingga hewan peliharaan di dalam game menjadi lebih kuat | ⭐⭐⭐
 Pengguna | bisa memilih hewan yang ingin didampingi | bisa memilih hewan yang bervariasi yang tidak membosankan | ⭐⭐⭐
-Pengguna | ada jebakan berbentuk bom di daerah arena bermain | pemain harus menghindari jebakan tersebut |⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | ada jebakan berbentuk bom api di daerah arena bermain | pemain harus menghindari jebakan tersebut |⭐⭐⭐
+Pengguna | ada bom es di daerah arena permainan | pemain perlu menghindari es tersebut karena jika terkena bisa menjadi es | ⭐⭐⭐
+Pengguna | ada tempat sewa karakter lain yang digerakkan oleh komputer | sehingga bisa membantu karakter utama | ⭐
+Pengguna | bisa menghancurkan tembakan musuh dengan pedang serangan jarak dekat | fungsi pedang selain untuk menyerang bisa untuk berlindung | ⭐⭐
+Pengguna | menembak laser dengan senjata pisto | dalam menyerang terdapat efek warna yang bagus | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
