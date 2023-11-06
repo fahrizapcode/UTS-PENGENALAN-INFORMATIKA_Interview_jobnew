@@ -112,11 +112,11 @@ Pengguna | ada jebakan berbentuk bom api di daerah arena bermain | pemain harus 
 Pengguna | ada bom es di daerah arena permainan | pemain perlu menghindari es tersebut karena jika terkena bisa menjadi es | ⭐⭐⭐
 Pengguna | ada tempat sewa karakter lain yang digerakkan oleh komputer | sehingga bisa membantu karakter utama | ⭐
 Pengguna | bisa menghancurkan tembakan musuh dengan pedang serangan jarak dekat | fungsi pedang selain untuk menyerang bisa untuk berlindung | ⭐⭐
-Pengguna | menembak laser dengan senjata pisto | dalam menyerang terdapat efek warna yang bagus | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | menembak laser dengan senjata pisto | dalam menyerang terdapat efek warna yang bagus | ⭐
+Pengguna | nyawa yang dimiliki karakter hanya 5 nyawa | saat nyawa nya habis karakter perlu mengulangi dari peta tersebut dari awal | ⭐⭐⭐⭐
+Pengguna | saat tembakan musuh mengenai karakter pemain maka darah yang dimiliki karakter pemain dikurangi 1 | karakter pemain perlu menghindari tembakan musuh | ⭐⭐⭐⭐
+Pengguna | setelah permainan berakhir pemain karakter akan menang jika menuntaskan permainannya dengan mengalahkan musuh dari awal peta hingga akhir | dalam permainan ada akhir yang membahagiakan | ⭐⭐
+Pengguna | setelah permainan berakhir akan di jelaskan poin yang didapat dan koin yang didapat | pemain karakter bisa menerima hadiah koin untuk membeli atribut yang ingin dipakai | ⭐⭐
 
 
 
