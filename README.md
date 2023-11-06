@@ -104,12 +104,11 @@ Pengguna | memakai senjata pedang untuk serangan jarak dekat | mematikan lawan d
 Pengguna | ada senjata yang memerlukan energi dari karakter | pengguna tidak selalu unggul dan memiliki kelemahan | ⭐⭐
 Pengguna | ada musuh yang memakai senjata | menambah tantangan untuk pemain | ⭐⭐
 Pengguna | menampilkan statistik darah ,energi dan koin yang didapat | pengguna mengetahui darah ,energi dan koin yang didapatkan | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
-Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
+Pengguna | ada harta karun didalam game setelah pindah ke peta selanjutnya yang berisi atribut karakter sebagai bonus | pengguna menjadi semangat saat pindah peta | ⭐⭐
+Pengguna | terdapat hewan pendamping didalam karakter yang bisa membantu melawan musuh | sehingga game tidak terlalu susah | ⭐⭐
+Pengguna | hewan peliharaan bisa di upgrade kekuatannya | sehingga hewan peliharaan di dalam game menjadi lebih kuat | ⭐⭐⭐
+Pengguna | bisa memilih hewan yang ingin didampingi | bisa memilih hewan yang bervariasi yang tidak membosankan | ⭐⭐⭐
+Pengguna | ada jebakan berbentuk bom di daerah arena bermain | pemain harus menghindari jebakan tersebut |⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
 Pengguna | aset yang berada di peta bisa berfungsi | aset didalam peta ada fungsinya | ⭐⭐⭐⭐
