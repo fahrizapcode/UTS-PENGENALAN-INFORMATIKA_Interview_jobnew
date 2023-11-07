@@ -1,7 +1,6 @@
 ## 1.1. Latar Belakang
 
-Game yang berada di perangkat teknologi ,menjadi hal yang digemari oleh 
-setiap kalangan, baik itu orang dewasa maupun anak kecil sebagai sarana hiburan ,pengisi waktu luang, bahkan ada yang dijadikan sebagai pekerjaan yang bisa menghasilkan uang.Namun dalam sebuah game pun tidak hanya untuk Pengisi waktu luang maupun penghibur diri, beberapa pesan atau pelajaran pun bisa didapatkan pada sebuah game, seperti bagaimana perjuangan suatu karakter yang selalu gigih dalam menghadapi rintangan atau musuh yang selalu menghadang demi mencapai apa yang dicari dalam game tersebut, melatih cara berfikir dan dapat juga mengasah kereatifitas. Dalam mengunduh aplikasi pun sangat banyak sumbernya dan mudah untuk install game yang kita inginkan, sehingga tak heran jika game menjadi software aplikasi yang sangat populer. 
+Game yang berada di perangkat teknologi menjadi hal yang digemari oleh setiap kalangan, baik itu orang dewasa maupun anak kecil sebagai sarana hiburan ,pengisi waktu luang, bahkan ada yang dijadikan sebagai pekerjaan yang bisa menghasilkan uang.Namun dalam sebuah game pun tidak hanya untuk Pengisi waktu luang maupun penghibur diri, beberapa pesan atau pelajaran pun bisa didapatkan pada sebuah game, seperti bagaimana perjuangan suatu karakter yang selalu gigih dalam menghadapi rintangan atau musuh yang selalu menghadang demi mencapai apa yang dicari dalam game tersebut, melatih cara berfikir dan dapat juga mengasah kereatifitas. Di zaman yang modern ini banyak pengguna media sosial dengan jumlah pengikutnya sangat banyak yang memainkan game hingga game tersebut menjadi viral dan banyak yang memainkannya, sehingga tak heran jika game menjadi software aplikasi yang sangat populer. 
 Vice President Corporate Communications Telkomsel, Saki Hamsat Bramono, membeberkan angka yang sangat fantastis. Dirinya menyebutkan, bahwa jumlahnya sendiri hingga miliaran orang di penjuru dunia.
 
 "Di dunia itu sekitar 3 miliar orang yang bermain game, atau 40% dari populasi yang ada di dunia. Asia itu kontribusinya sekitar 50% dari 3 miliar, itu 1,5 miliar orang bermain game di Asia," ungkap Saki, dalam sesi talk show di konferensi DG Con 2022, di Basket Hall Senayan, Jakarta, Jumat (28/10/2022). 
@@ -9,10 +8,12 @@ Vice President Corporate Communications Telkomsel, Saki Hamsat Bramono, membeber
 Game memiliki banyak macam bentuk, mulai dari permainan yang sifatnya sederhana hingga yang 
 paling kompleks sekalipun.  Semua game saat ini, sudah semakin maju dan modern karena kemajuan teknologi yang terus berkembang. Dengan perkembangan teknologi yang pesat seperti sekarang ini, game menjadi semakin komplit dan juga praktis. Misalnya sekarang orang tidak perlu game console untuk memainkan game, game dapat dimainkan di PC, laptop bahkan gadget smartphone kita bisa memainkan sebuah game. Game yang digemari saat ini adalah game yang bersifat online ,dimana para pemain dapat bermain bersama teman-teman. Di zaman sekarang game dijadikan ajang kompetisi antar pemain agar menjadi pemain terhebat yang memiliki skill dalam bermain yang bagus. Para pemain mengejar peringkat yang ada di dalam game agar di akui sebagai player terkuat. Hal ini menyebabkan banyak dari pemain tersebut  mengalami stress akibat kalah dan sulit menjadi top player dan kebanyakan pemainnya menjadi toxic saat bermain game akibat selalu kalah dan rankingnya tidak kunjung naik. Oleh karena itu perlu adanya game offline yang 
 sederhana namun tetap menarik untuk dimainkan.
+Game ini menceritakan seorang penjelajah dimensi yang sedang menjelajar yang ada di setiap planet, namun hal yang tidak disadari oleh si penjelajah saat mencari misteri misteri yang belum terungkap dari planet planet tersebut adalah adanya makhluk yang mengganggu saat si penjelajah sedang mencari 
+
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-aplikasi ini bertujuan untuk memberikan hiburan para pengguna agar perlahan mereka bisa memainkan game dan bisa merubah pola permainan yang sehat dan lebih baik. game yang dimainkan pula bisa me
+aplikasi ini menceritakan sebuah pendekar yang mengelilingi seluruh alam semesta bertujuan untuk memberikan hiburan para pengguna agar perlahan mereka bisa memainkan game dan bisa merubah pola permainan yang sehat dan lebih baik. game yang dimainkan pula bisa me
 
 ada beberapa jenis teknologi informasi yang dipakai dalam pengerjaan produk teknologi informasi ini, diantaranya:
 
