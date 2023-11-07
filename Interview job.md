@@ -8,14 +8,13 @@ Vice President Corporate Communications Telkomsel, Saki Hamsat Bramono, membeber
 Game memiliki banyak macam bentuk, mulai dari permainan yang sifatnya sederhana hingga yang 
 paling kompleks sekalipun.  Semua game saat ini, sudah semakin maju dan modern karena kemajuan teknologi yang terus berkembang. Dengan perkembangan teknologi yang pesat seperti sekarang ini, game menjadi semakin komplit dan juga praktis. Misalnya sekarang orang tidak perlu game console untuk memainkan game, game dapat dimainkan di PC, laptop bahkan gadget smartphone kita bisa memainkan sebuah game. Game yang digemari saat ini adalah game yang bersifat online ,dimana para pemain dapat bermain bersama teman-teman. Di zaman sekarang game dijadikan ajang kompetisi antar pemain agar menjadi pemain terhebat yang memiliki skill dalam bermain yang bagus. Para pemain mengejar peringkat yang ada di dalam game agar di akui sebagai player terkuat. Hal ini menyebabkan banyak dari pemain tersebut  mengalami stress akibat kalah dan sulit menjadi top player dan kebanyakan pemainnya menjadi toxic saat bermain game akibat selalu kalah dan rankingnya tidak kunjung naik. Oleh karena itu perlu adanya game offline yang 
 sederhana namun tetap menarik untuk dimainkan.
-Game ini menceritakan seorang penjelajah dimensi yang sedang menjelajar yang ada di setiap planet, namun hal yang tidak disadari oleh si penjelajah saat mencari misteri misteri yang belum terungkap dari planet planet tersebut adalah adanya makhluk yang mengganggu saat si penjelajah sedang mencari 
+
+Game ini menceritakan seorang penjelajah dimensi yang sedang menjelajah untuk mencari misteri yang ada di setiap dimensi, namun hal yang tidak disadari oleh si penjelajah saat mencari misteri misteri yang belum terungkap dari dimensi dimensi tersebut adalah adanya makhluk makhluk yang mengganggu saat si penjelajah sedang melakukan pengungkapan misteri. Banyak rintangan dan tantangan yang diberikan oleh para monster dan jenis musuh lain yang menyerang si penjelajah. Namun sang penjelajah tersebut tidak akan menyerah karena sang penjelajah memiliki ambisi besar untuk mengungkapkan misteri apa saja yang ada di dimensi lain.
 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-aplikasi ini menceritakan sebuah pendekar yang mengelilingi seluruh alam semesta bertujuan untuk memberikan hiburan para pengguna agar perlahan mereka bisa memainkan game dan bisa merubah pola permainan yang sehat dan lebih baik. game yang dimainkan pula bisa me
-
-ada beberapa jenis teknologi informasi yang dipakai dalam pengerjaan produk teknologi informasi ini, diantaranya:
+aplikasi bertujuan untuk memberikan hiburan para pengguna agar perlahan mereka bisa memainkan game dan bisa merubah pola permainan yang sehat dan lebih baik.ada beberapa jenis teknologi informasi yang dipakai dalam pengerjaan produk teknologi informasi ini, diantaranya:
 
 1. memakai java swing
 2. untuk code editor saya menggunakan netbeans
@@ -25,18 +24,18 @@ ada beberapa jenis teknologi informasi yang dipakai dalam pengerjaan produk tekn
 
 pada tahap ini saya akan mengeksplorasi branding dari produk yang saya buat.
 
--Merk : Run&run
--kata Run&run diambil dari bahasa inggris yang artinya "lari dan lari" atau bisa diartikan sebagai terus bergerak, sesuai dengan produk yang dibuat, yang tujuannya menghibur dan melatih otak agar seseorang bisa memanfaat waktunya dengan baik.
+-Merk : Run And Run
+-kata Run And Run diambil dari bahasa inggris yang artinya "lari dan lari" atau bisa diartikan sebagai sebuah pergerakan yang terus bergerak, sesuai dengan produk yang dibuat, yang mencerikatan seorang penjelajah antar dimensi yang sedang menjelajah untuk mengungkapkan misteri di dimensi lain dan di game ini si penjelajah memiliki 2 pilihan dalam melakukan penjelajahan tersebut apakah perlu menghindari musuh yang menyerang atau si penjelajah melakukan penyerangan terhadap musuh pada saat ada musuh.
 
 -Tagline : make it play
 
--campaign : bagaimana membuat aplikasi game yang penggunanya dapat memainkan karakter yang dapat diakses oleh semua pengguna, gunanya untuk menghibur pengguna agar bisa memanfaatkan waktunya dengan baik .
+-campaign : bagaimana membuat aplikasi game yang penggunanya dapat memainkan karakter dengan sudut pandang pemeran utamanya menjadi penjelajah yang dapat diakses oleh semua pengguna, gunanya untuk menghibur pengguna agar bisa memanfaatkan waktunya dengan baik .
 
 -target user :
 	
  *usia 10+ 
  
- *pengguna mendapatkan hiburan saat memainkan game nya, 
+ *pengguna yang kurang mendapatkan hiburan. 
  
  *pengguna dapat mengkontrol karakter dari game. 
   
@@ -52,7 +51,7 @@ pada tahap ini saya akan mengeksplorasi branding dari produk yang saya buat.
 
  *simple
 
- *memakai konsep galaxy untuk tampilan awal,karena konsep dari game ini memakai tema antar planet
+ *memakai konsep galaxy untuk tampilan awal,karena konsep dari game ini memakai tema antar dimensi
 
  *warna hitam ,yang mengartikan keluasan dan kemewahan dengan kesan elegan. 
 
@@ -119,8 +118,42 @@ Pengguna | saat tembakan musuh mengenai karakter pemain maka darah yang dimiliki
 Pengguna | setelah permainan berakhir pemain karakter akan menang jika menuntaskan permainannya dengan mengalahkan musuh dari awal peta hingga akhir | dalam permainan ada akhir yang membahagiakan | ⭐⭐
 Pengguna | setelah permainan berakhir akan di jelaskan poin yang didapat dan koin yang didapat | pemain karakter bisa menerima hadiah koin untuk membeli atribut yang ingin dipakai | ⭐⭐
 
-
-
+## 3. Struktur Data
+```mermaid
+erDiagram
+    Users ||--|{ home : tap_to_start
+    home {
+        var new_game
+	var continue
+	var settings
+	var quit
+        }
+	
+	home ||--o{ new_game : pengguna-klik-new-game
+	new_game {
+        var history_game
+	var mulai_permainan
+        var back
+	}
+	home ||--o{ continue : pengguna-klik-continue
+	continue {
+        int terakhir_bermain
+	var melanjutkan_permainan
+	var back
+	}
+        home ||--o{ settings : pengguna-klik-settings
+	settings {
+        var sound
+	var control
+        var back
+	}
+	home ||--o{ quit : pengguna-klik-quit
+	quit {
+	var quit_game
+	var yes
+        var no
+	}
+```
 
 
 
