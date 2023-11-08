@@ -155,6 +155,16 @@ erDiagram
 	}
 ```
 
+## 4. Arsitektur Sistem
+```mermaid
+flowchart TD
+  Database-MySQL <==> tampilan -element_java_swing 
+	
+```
+## 5. Teknologi, Library, dan Framework
+
+Saya menggunakan java swing untuk merancang produk teknologi informasi ini.
+
 
 
 
