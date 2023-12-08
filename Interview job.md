@@ -9,7 +9,9 @@ Game memiliki banyak macam bentuk, mulai dari permainan yang sifatnya sederhana 
 paling kompleks sekalipun.  Semua game saat ini, sudah semakin maju dan modern karena kemajuan teknologi yang terus berkembang. Dengan perkembangan teknologi yang pesat seperti sekarang ini, game menjadi semakin komplit dan juga praktis. Misalnya sekarang orang tidak perlu game console untuk memainkan game, game dapat dimainkan di PC, laptop bahkan gadget smartphone kita bisa memainkan sebuah game. Game yang digemari saat ini adalah game yang bersifat online ,dimana para pemain dapat bermain bersama teman-teman. Di zaman sekarang game dijadikan ajang kompetisi antar pemain agar menjadi pemain terhebat yang memiliki skill dalam bermain yang bagus. Para pemain mengejar peringkat yang ada di dalam game agar di akui sebagai player terkuat. Hal ini menyebabkan banyak dari pemain tersebut  mengalami stress akibat kalah dan sulit menjadi top player dan kebanyakan pemainnya menjadi toxic saat bermain game akibat selalu kalah dan rankingnya tidak kunjung naik. Oleh karena itu perlu adanya game offline yang 
 sederhana namun tetap menarik untuk dimainkan.
 
-Game ini menceritakan seorang penjelajah alam semesta yang sedang menjelajah untuk mencari misteri yang ada di setiap alam semesta, namun hal yang tidak disadari oleh si penjelajah saat mencari misteri misteri yang belum terungkap dari dimensi dimensi tersebut adalah adanya makhluk makhluk yang mengganggu saat si penjelajah sedang melakukan pengungkapan misteri. Banyak rintangan dan tantangan yang diberikan oleh para monster dan jenis musuh lain yang menyerang si penjelajah. Namun sang penjelajah tersebut tidak akan menyerah karena sang penjelajah memiliki ambisi besar untuk mengungkapkan misteri apa saja yang ada di dimensi lain.
+Game ini menceritakan sebuah dunia Galaksi Serikat 123v025 yang dimana perkembangan manusia pada zaman ini sangat maju serta manusia pada zaman ini telah menjelajahi dan menaklukkan berbagai planet. pada perkembangan manusia yang maju ini pula sebuah organisasi penjelajah antariksa bernama "Galactic Explorers Univers" (GEU) dibentuk. Pemain memerankan seorang penjelajah muda yang baru saja diterima ke dalam GEU. Tugas utama pemain adalah menjelajahi planet-planet terpencil yang belum dijelajahi sebelumnya, di mana terdapat misteri-misteri yang belum terpecahkan. Setiap planet memiliki kisah kisah yang unik baik itu dari flora, fauna, dan artefak kuno yang menyimpan rahasia tertentu.
+Namun, ditengah eksplorasi mereka, penjelajah menemui petunjuk-petunjuk kuno yang mengarah pada misteri yang lebih besar yang melibatkan keberadaan ras alien kuno dan teknologi canggih yang hilang. Pemain harus mengatasi tantangan, memecahkan teka-teki, dan berinteraksi dengan makhluk asing untuk mengungkap kebenaran di balik misteri ini.
+Dengan alur cerita yang kaya dan karakter yang mendalam ,pemain akan menjelajah, tidak hanya menampilkan fisik planet, tetapi juga sejarah dan mitologi yang melingkupi keberadaan mereka. Setiap penemuan akan membuka alur yang baru dengan penuh misteri, sementara interaksi dengan karakter non-pemain dan keputusan pemain akan mempengaruhi perkembangan cerita secara keseluruhan.
 
 
 ## 1.2. Deksripsi Teknologi Informasi
@@ -24,10 +26,10 @@ aplikasi bertujuan untuk memberikan hiburan para pengguna agar perlahan mereka b
 
 pada tahap ini saya akan mengeksplorasi branding dari produk yang saya buat.
 
--Merk : Run And Run
--kata Run And Run diambil dari bahasa inggris yang artinya "lari dan lari" atau bisa diartikan sebagai sebuah pergerakan yang terus bergerak, sesuai dengan produk yang dibuat, yang mencerikatan seorang penjelajah antar dimensi yang sedang menjelajah untuk mengungkapkan misteri di dimensi lain dan di game ini si penjelajah memiliki 2 pilihan dalam melakukan penjelajahan tersebut apakah perlu menghindari musuh yang menyerang atau si penjelajah melakukan penyerangan terhadap musuh pada saat ada musuh.
+-Merk : Galactic Mysteries: Explorer's Quest
+-Galactic Mysteries: Explorer's Quest Mengacu pada misteri-misteri yang ada di seluruh galaksi. Kata "Galactic" mengartikan mengenai perjalanan yang luas di alam semesta, sementara "Mysteries" mengartikan pada unsur ketidakpastian dan rahasia yang akan diungkap oleh pemain selama petualangan.Sedangkan untul Explorer's Quest mengartikan peran pemain sebagai penjelajah atau penjelajah antariksa dalam misi pencarian atau petualangan. "Explorer's" menunjukkan suatu pekerjaan atau tugas bagi pemain dalam menjelajahi, sementara "Quest" merujuk pada pencarian epik atau tugas besar yang menunggu pemain.
 
--Tagline : make it play
+-Tagline : Temukan Rahasia-Rahasia Antar Planet yang Menakjubkan!
 
 -campaign : bagaimana membuat aplikasi game yang penggunanya dapat memainkan karakter dengan sudut pandang pemeran utamanya menjadi penjelajah yang dapat diakses oleh semua pengguna, gunanya untuk menghibur pengguna agar bisa memanfaatkan waktunya dengan baik .
 
