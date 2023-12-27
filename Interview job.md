@@ -119,6 +119,9 @@ Pengguna | nyawa yang dimiliki karakter hanya 5 nyawa | saat nyawa nya habis kar
 Pengguna | saat tembakan musuh mengenai karakter pemain maka darah yang dimiliki karakter pemain dikurangi 1 | karakter pemain perlu menghindari tembakan musuh | ⭐⭐⭐⭐
 Pengguna | setelah permainan berakhir pemain karakter akan menang jika menuntaskan permainannya dengan mengalahkan musuh dari awal peta hingga akhir | dalam permainan ada akhir yang membahagiakan | ⭐⭐
 Pengguna | setelah permainan berakhir akan di jelaskan poin yang didapat dan koin yang didapat | pemain karakter bisa menerima hadiah koin untuk membeli atribut yang ingin dipakai | ⭐⭐
+Pengguna buta warna | Memainkan game dengan mode buta | Pemain bisa memainkan game ini dengan pengalaman yang memuaskan | ⭐⭐
+Pengguna perempuan | Memainkan game ini dengan memakai karakter perempuan | Membuat permainan menjadi tidak boring karena bisa mengganti karakter | ⭐⭐
+Pengguna Laki Laki | Memainkan game ini dengan memakai karakter laki laki | sehingga membuat permainan tidak membosankan karena bisa mengganti karakter | ⭐⭐
 
 ## 3. Struktur Data
 ```mermaid
