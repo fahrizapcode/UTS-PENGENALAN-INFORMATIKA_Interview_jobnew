@@ -19,7 +19,7 @@ Dengan alur cerita yang kaya dan karakter yang mendalam ,pemain akan menjelajah,
 aplikasi bertujuan untuk memberikan hiburan para pengguna agar perlahan mereka bisa memainkan game dan bisa merubah pola permainan yang sehat dan lebih baik.ada beberapa jenis teknologi informasi yang dipakai dalam pengerjaan produk teknologi informasi ini, diantaranya:
 
 1. memakai java swing
-2. untuk code editor saya menggunakan netbeans
+2. untuk code editor saya menggunakan eclips
 
 
 ## 1.3. Branding
@@ -47,7 +47,7 @@ pada tahap ini saya akan mengeksplorasi branding dari produk yang saya buat.
 	
  *warna bervariasi 
 	
- *mudah pahami
+ *mudah dipahami
 	
  *mudah untuk dimainkan
 
@@ -120,8 +120,8 @@ Pengguna | saat tembakan musuh mengenai karakter pemain maka darah yang dimiliki
 Pengguna | setelah permainan berakhir pemain karakter akan menang jika menuntaskan permainannya dengan mengalahkan musuh dari awal peta hingga akhir | dalam permainan ada akhir yang membahagiakan | ⭐⭐
 Pengguna | setelah permainan berakhir akan di jelaskan poin yang didapat dan koin yang didapat | pemain karakter bisa menerima hadiah koin untuk membeli atribut yang ingin dipakai | ⭐⭐
 Pengguna buta warna | Memainkan game dengan mode buta | Pemain bisa memainkan game ini dengan pengalaman yang memuaskan | ⭐⭐
-Pengguna perempuan | Memainkan game ini dengan memakai karakter perempuan | Membuat permainan menjadi tidak boring karena bisa mengganti karakter | ⭐⭐
-Pengguna Laki Laki | Memainkan game ini dengan memakai karakter laki laki | sehingga membuat permainan tidak membosankan karena bisa mengganti karakter | ⭐⭐
+Pengguna perempuan | Memainkan game ini dengan memakai karakter perempuan | Membuat permainan menjadi tidak boring karena bisa mengganti karakter | ⭐⭐⭐⭐
+Pengguna Laki Laki | Memainkan game ini dengan memakai karakter laki laki | sehingga membuat permainan tidak membosankan karena bisa mengganti karakter | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 ```mermaid
