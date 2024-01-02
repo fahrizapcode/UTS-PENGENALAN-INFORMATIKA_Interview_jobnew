@@ -61,7 +61,9 @@ pada tahap ini saya akan mengeksplorasi branding dari produk yang saya buat.
  
 ## Refernsi Design
 Saya mengambil referensi warna dan layout dari aplikasi game soul knight ,seperti gambar dibawah ini:
-
+![referensi1](https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/blob/main/image/e57b960f-2592-45b3-8622-9d72432fe182.jpg)
+![referensi2](https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/blob/main/image/13afbb27-03a7-423d-9d10-8213a498501e.jpg)
+![referensi3](https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/blob/main/image/de23192e-5455-4c0c-81e5-714cea76a3fe.jpg)
 
 
 
@@ -176,6 +178,11 @@ Saya menggunakan java swing untuk merancang produk teknologi informasi ini dan u
 
 
 ## 6. Desain User Experience dan User Interface
+Design ini adalah low fidelity design yang dimana design yang paling sederhana untuk dibuat, design ini dibuat di aplikasi Notes di samsung.
+![referensi4](https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/blob/main/image/f11299e7-8ec6-456b-8396-7208577b875c.jpg)
+
+ini merupakan tampilan game javaswing yang saya buat dengan tema antarplanet yang karakternya sudah bisa jalan kanan,kiri,atas dan bawah.
+![referensi5](https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/blob/main/image/b2c6b884-ab5f-4739-9d29-32ccd1eb1eef.jpg)
 
 ## 7. Demonstrasi Video
 
