@@ -20,7 +20,7 @@ public class GamePanel extends JPanel implements Runnable{
     
     public final int ukuranJendela = ukuranAsliJendela*skala;
     //ukuran jendela manual
-    public final int lebarJendela=16;
+      public final int lebarJendela=16;
       public final int tinggiJendela=12;
        public final int screenWidth=ukuranJendela*lebarJendela;
        public final int screenHeight=ukuranJendela*tinggiJendela;
