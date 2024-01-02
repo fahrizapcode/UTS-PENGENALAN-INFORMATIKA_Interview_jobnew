@@ -162,13 +162,18 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 ```mermaid
+
 flowchart TD
-  Database-MySQL <==> tampilan -element_java_swing 
+  Database_MySQL <==> backend-Java-library_javaswing <==> Server <==> Frontend:-library_javaswing-animasi_2d-java
 	
 ```
 ## 5. Teknologi, Library, dan Framework
 
-Saya menggunakan java swing untuk merancang produk teknologi informasi ini.
+Saya menggunakan java swing untuk merancang produk teknologi informasi ini dan untuk teknologi yang saya pakai adalah laptop dan dibantu oleh handphone..Untuk framework saya menggunakan Eclipse WindowBuilder,eclipse adalah plugin Eclipse yang mempermudah pengembangan antarmuka pengguna (GUI) dengan menggunakan Java Swing, SWT, atau Google Web Toolkit (GWT). Plugin ini menyediakan desainer visual yang memungkinkan Anda membuat antarmuka pengguna secara visual tanpa perlu menulis banyak kode secara manual.Plugin ini memudahkan pengembangan aplikasi desktop dengan Java Swing dalam lingkungan Eclipse, membantu meningkatkan produktivitas pengembang.untuk library saya menggunakan Beberapa library yang biasa digunakan dalam pengembangan Java Swing adalah:
+1.Swing API (javax.swing) adalah bagian utama dari Java Swing dan menyediakan berbagai komponen GUI seperti JFrame, JButton, JTable, dan lainnya.
+2.AWT (Abstract Window Toolkit), Meskipun Swing lebih modern, beberapa aplikasi Java Swing mungkin masih menggunakan komponen AWT untuk keperluan tertentu.
+
+
 
 ## 6. Desain User Experience dan User Interface
 
