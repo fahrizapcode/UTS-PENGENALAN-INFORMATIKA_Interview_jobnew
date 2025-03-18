@@ -13,7 +13,7 @@ Game ini menceritakan sebuah dunia Galaksi Serikat 123v025 yang dimana perkemban
 Namun, ditengah eksplorasi mereka, penjelajah menemui petunjuk-petunjuk kuno yang mengarah pada misteri yang lebih besar yang melibatkan keberadaan ras alien kuno dan teknologi canggih yang hilang. Pemain harus mengatasi tantangan, memecahkan teka-teki, dan berinteraksi dengan makhluk asing untuk mengungkap kebenaran di balik misteri ini.
 Dengan alur cerita yang kaya dan karakter yang mendalam ,pemain akan menjelajah, tidak hanya menampilkan fisik planet, tetapi juga sejarah dan mitologi yang melingkupi keberadaan mereka. Setiap penemuan akan membuka alur yang baru dengan penuh misteri, sementara interaksi dengan karakter non-pemain dan keputusan pemain akan mempengaruhi perkembangan cerita secara keseluruhan.
 
-
+cihuy
 ## 1.2. Deksripsi Teknologi Informasi
 
 aplikasi bertujuan untuk memberikan hiburan para pengguna agar perlahan mereka bisa memainkan game dan bisa merubah pola permainan yang sehat dan lebih baik.ada beberapa jenis teknologi informasi yang dipakai dalam pengerjaan produk teknologi informasi ini, diantaranya:
