@@ -184,17 +184,3 @@ Design ini adalah low fidelity design yang dimana design yang paling sederhana u
 ini merupakan tampilan game javaswing yang saya buat dengan tema antarplanet yang karakternya sudah bisa jalan kanan,kiri,atas dan bawah.
 ![referensi5](https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/blob/main/image/b2c6b884-ab5f-4739-9d29-32ccd1eb1eef.jpg)
 
-## 7. Demonstrasi Video
-LINK YOUTUBE: https://youtu.be/Vc5jm7kNNvc
-
-## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
-LINK YOUTUBE : https://youtu.be/Vc5jm7kNNvc
-
-## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
-LINK YOUTUBE: https://youtu.be/Vc5jm7kNNvc
-
-## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-LINK YOUTUBE: https://youtu.be/Vc5jm7kNNvc
-
-## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-LINK YOUTUBE : https://youtu.be/Vc5jm7kNNvc
